@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+
+.formulario__label{
+	font-size: 0.9em;
+	font-weight: bold;
+	width: 90px;
+}

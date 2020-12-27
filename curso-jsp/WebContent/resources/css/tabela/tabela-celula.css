@@ -1,0 +1,6 @@
+@charset "ISO-8859-1";
+
+.tabela__celula{
+	border: 1px solid #ddd;
+	padding: 8px;
+}

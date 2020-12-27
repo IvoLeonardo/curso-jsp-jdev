@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.formulario__input{
+	width: 200px;
+	border: 1px solid #CCC;
+	box-shadow: inset 2px 2px 2px #EEE;
+	font-size: 0.9em;
+	padding: 2px 5px;
+}

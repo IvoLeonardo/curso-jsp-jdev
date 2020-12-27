@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+
+.tabela{
+	margin: 30px 25%;
+	width: 100%;
+}
+
+#tabela__id{
+	width: 10%;
+}
+
+#tabela__login{
+	width: 30%;
+	
+}
+
+#tabela__senha{
+width: 30%;	
+}
+
+#tabela__nome{
+	width: 30%;
+}
+
+#tabela__excluir, #tabela__editar{
+	width: 10%;
+}
+
+
+tr:nth-child(even){background-color: #fcf7e2;}
+
+tr:hover {background-color: #804040;}
+
+

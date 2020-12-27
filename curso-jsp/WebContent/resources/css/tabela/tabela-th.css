@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+.tabela__th{
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #c58b8b;
+	color: #ffffff;
+}
+
+
+
